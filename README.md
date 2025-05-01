@@ -3,7 +3,7 @@
 A simple and responsive food menu web application built with **React.js**. This project displays a list of breakfast items using reusable components. Users can explore items with names, prices, and images in a neat card layout.
 
 ## 📸 Preview
-
+https://hotel-menu-chi.vercel.app/
 
 
 ## 💡 Features
