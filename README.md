@@ -1,12 +1,31 @@
-# React + Vite
+# 🍽️ My Hotel Menu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive food menu web application built with **React.js**. This project displays a list of breakfast items using reusable components. Users can explore items with names, prices, and images in a neat card layout.
 
-Currently, two official plugins are available:
+## 📸 Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💡 Features
+
+- 🍳 Dynamic list of food items
+- 🎨 Clean and responsive UI
+- 🧱 Reusable `Food` and `List` components
+- 🖼️ Image, price, and name displayed for each item
+- 💻 Centered layout with modern background and shadow effects
+
+## 🛠️ Technologies Used
+
+- React.js 
+- JSX
+- CSS Flexbox
+- Google Fonts
+- Inline styling & custom CSS
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/my-hotel-menu.git
+cd my-hotel-menu
+npm install
+npm start
